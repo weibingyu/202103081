@@ -15,7 +15,7 @@
 int main(int argc, char *argv[])
 {
 	printf("first file\n");	
-	
+	printf("hello world\n");	
 	return 0;
 }
 
